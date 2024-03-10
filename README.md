@@ -35,7 +35,7 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 - Semi-Chiral Operators in 4d ${N}=1$ Gauge Theories. [arXiv: 2306.01039](https://arxiv.org/abs/2306.01039)
 
 
-## Repository Contents
+## Contents
 
 - **Mathematica Code**: Implements generation, validation, and cataloging of generalized n-Laman graphs.
 - **Python Code**: Uses NetworkX for generating random graphs and verifying n-Laman conditions.
