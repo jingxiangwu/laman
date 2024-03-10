@@ -29,7 +29,10 @@ $$n V=(n-1)E+n+1$$
 $$n e \geq(n-1)e+n+1$$
 
 Roughly speaking, perturbative calculations in quantum field theories are organized in (Feyman) graphs. A priori, any graph needs to be considered. However, it turns out twisted quantum field theories has an intricate hidden structure that the only graphs with nontrivial contributions are n-Laman graphs. See my paper ([Feynman Diagrams in Four-Dimensional
-Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for more details.
+Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for more details. See also the following articles for discussions along these lines
+- Unraveling the Holomorphic Twist: Central Charges. [arXiv: 2311.04304](https://arxiv.org/abs/2311.04304)
+- On $\frac18$-BPS black holes and the chiral algebra of $\mathcal{N}=4$ SYM. [arXiv: 2310.20086](https://arxiv.org/abs/2310.20086)
+- Semi-Chiral Operators in 4d ${N}=1$ Gauge Theories. [arXiv: 2306.01039](https://arxiv.org/abs/2306.01039)
 
 
 ## Repository Contents
