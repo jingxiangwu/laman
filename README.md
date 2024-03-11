@@ -16,6 +16,7 @@ while these are not Laman
 
 <img width="726" alt="image" src="https://github.com/jingxiangwu/laman/assets/110117607/49e2e83f-aadc-4f19-9f5b-e8890964304a">
 
+The number of Laman graphs is cataloged in [OEIS](https://oeis.org/A227117).
 
 
 They are pivotal in structural engineering for designing frameworks that are stable yet use minimal material, ensuring both stability and efficiency. In robotics, Laman graphs provides flexible and yet stable structures, making the robot more robust and adaptable. They also have important applications in computational biology, providing insights into molecular stability and interactions. 
