@@ -40,7 +40,7 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 
 - **Mathematica Code**: Implements generation, validation, and cataloging of generalized n-Laman graphs.
 - **Python Code**: Uses NetworkX for generating random graphs and verifying n-Laman conditions.
-- **Machine Learning Project**: A on-going project employing PyTorch Geometric to identify and generate generalized n-Laman graphs through Graph Neural Networks (GNNs).
+- **Machine Learning Project**: A on-going project employing PyTorch Geometric to identify and generate generalized n-Laman graphs through Reinforcement Learning.
 - .....
 
 ## Acknowledgments
