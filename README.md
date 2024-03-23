@@ -43,6 +43,11 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 - **Machine Learning Project**: A on-going project employing PyTorch Geometric to identify and generate generalized n-Laman graphs through Reinforcement Learning.
 - .....
 
+## Tips
+As I recently switched to a MacBook with M1 chip, it is quite non straightforward to install PyTorch Geometric. I have included a detailed guide on the installation on M1 Macs, please see [Installation Guide](./install_geometric.md).
+
+
+
 ## Acknowledgments
 
 Thanks to all collaborators for their invaluable insights and support in this ongoing exploration of Laman graphs and their generalizations. Contributions are welcome.
