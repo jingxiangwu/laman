@@ -46,7 +46,7 @@ PyTorch Geometric (PyG) is a library that extends PyTorch to support graph neura
 4. **Install dependencies of PyTorch Geometric**: After installing PyTorch, you can install the dependencies of Geometric.
     
     ```bash
-    pip install torch-scatter torch-sparse torch-cluster torch-spline-conv -f https://data.pyg.org/whl/torch-1.8.0+cpu.html
+    pip install torch-scatter torch-sparse torch-cluster torch-spline-conv -f https://data.pyg.org/whl/torch-2.2.1+cpu.html
     ```
     
     Note: Replace **`torch-2.2.1+cpu`** with the version of PyTorch you installed. This is found in the output of the last step. I don’t use CUDA so I will simply choose `cpu.`
