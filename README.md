@@ -44,7 +44,7 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 - .....
 
 ## Tips
-As I recently switched to a MacBook with M1 chip, it is quite non straightforward to install PyTorch Geometric. I have included a detailed guide on the installation on M1 Macs, please see [Installation Guide](./install_geometric.md).
+As I recently switched to a MacBook with M1 chip, it becomes quite non straightforward to install PyTorch Geometric. I have included a detailed guide on the installation on M1 Macs, please see [Installation Guide](./install_geometric.md).
 
 
 
