@@ -41,8 +41,10 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 - **Mathematica Code**: Implements generation, validation, and cataloging of generalized n-Laman graphs.
 - **Python Code**: Uses NetworkX for generating random graphs and verifying n-Laman conditions.
 - **Dataset**: encoded in [torch_geometric.data objects](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.data.Data.html#torch_geometric.data.Data), where `feature` is the degree of each nodes and truth label is the Laman-ness. See [database](./laman_graphs_1e4dataset12nodesHT2.pt)
-- **ML to identify Laman graphs**: employing PyTorch Geometric/Graph Neural Network (GNN) to do the fast identification. This is a priori very challenging for graph neural network since Laman-ness concerns about the density of the edges instead of local information of each nodes. Nevertheless, I found two promising architectures so far are Graph Convolutional Network and Graph Attention Network
-- <img width="806" alt="image" src="https://github.com/jingxiangwu/laman/assets/110117607/b416b1c0-176a-4c68-9134-6fa9c5a9f511">
+- **ML to identify Laman graphs**: employing PyTorch Geometric/Graph Neural Network (GNN) to do the fast identification. This is a priori quite challenging for graph neural network. The main reason is because Laman-ness concerns about the density of the edges for all subgraphs instead of local information of each nodes. Nevertheless, I seem to find two promising architectures so far are Graph Convolutional Network and Graph Attention Network
+- <img width="863" alt="image" src="https://github.com/jingxiangwu/laman/assets/110117607/962de71f-f771-4c87-8c26-3d3da363fd91">
+
+
 
 - **RL to generate Laman graphs**: generate generalized n-Laman graphs through Reinforcement Learning (RL).
 - .....
