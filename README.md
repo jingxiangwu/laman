@@ -27,7 +27,7 @@ It turns out Laman graphs appear as fundament objects in the study of quantum fi
 - global condition: let $V$ be the number of vertices and $E$ be the number of edges
 $$n V=(n-1)E+n+1$$
 - local condition: for any subgraph, let $v$ be the number of vertices and $e$ be the number of edges
-$$n e \geq(n-1)e+n+1$$
+$$n v \geq(n-1)e+n+1$$
 
 Roughly speaking, perturbative calculations in quantum field theories are organized in (Feyman) graphs. A priori, any graph needs to be considered. However, it turns out twisted quantum field theories has an intricate hidden structure that the only graphs with nontrivial contributions are n-Laman graphs. See my paper ([Feynman Diagrams in Four-Dimensional
 Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for more details. See also the following articles for discussions along these lines
@@ -36,7 +36,7 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 - Semi-Chiral Operators in 4d ${N}=1$ Gauge Theories. [arXiv: 2306.01039](https://arxiv.org/abs/2306.01039)
 
 
-## Contents
+## Outline
 
 - **Mathematica Code**: Implements generation, validation, and cataloging of generalized n-Laman graphs.
 - **Python Code**: Uses NetworkX for generating random graphs and verifying n-Laman conditions.
@@ -53,10 +53,6 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 As I recently switched to a MacBook with M1 chip, it becomes quite non straightforward to install PyTorch Geometric. I have included a detailed guide on the installation on M1 Macs, please see [Installation Guide](./install_geometric.md).
 
 
-
-## Acknowledgments
-
-Thanks to all collaborators for their invaluable insights and support in this ongoing exploration of Laman graphs and their generalizations. Contributions are welcome.
 
 ## Related Projects
 
