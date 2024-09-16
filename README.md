@@ -49,7 +49,14 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 <img width="863" alt="image" src="https://github.com/jingxiangwu/laman/assets/110117607/962de71f-f771-4c87-8c26-3d3da363fd91">
 -->
 
-## Evaluations
+## Training and Evaluations
+Here is the size of our datasets
+
+| V              | 2   | 3   | 4   | 5   | 6     | 7     | 8      | 9      | 10        | 11      | 12              |
+|----------------|-----|-----|-----|-----|-------|-------|--------|--------|-----------|---------|-----------------|
+| $N_{n=2}$      | 1   | 1   | 1   | 3   | 13    | 70    | 608    | 7222   | 110132    | 2039273 | 44176717         |
+| $N_{n=3}$      | 1   | 0   | 1   | 0   | 2     | 0     | $\geq 14/476$ | 0 | $\geq 199/22408$ | 0       | $\geq 2290/487596$ |
+
 
 |                 | Accuracy  | Precision | Recall    | F1-score  | AUC-ROC   |
 |-----------------|-----------|-----------|-----------|-----------|-----------|
