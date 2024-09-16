@@ -49,6 +49,17 @@ Holomorphic Theories and the Operatope](https://arxiv.org/abs/2207.14321)) for m
 <img width="863" alt="image" src="https://github.com/jingxiangwu/laman/assets/110117607/962de71f-f771-4c87-8c26-3d3da363fd91">
 -->
 
+## Evaluations
+
+|                 | Accuracy  | Precision | Recall    | F1-score  | AUC-ROC   |
+|-----------------|-----------|-----------|-----------|-----------|-----------|
+| n=2, V=9        | 0.994249  | 0.986395  | 0.998279  | 0.992301  | 0.999949  |
+| n=3, V=12       | 0.999303  | 0.883858  | 0.980349  | 0.929607  | 0.999867  |
+
+
+
+
+
 ## Tips
 As I recently switched to a MacBook with M1 chip, it becomes quite non straightforward to install PyTorch Geometric. I have included a detailed guide on the installation on M1 Macs, please see [Installation Guide](./install_geometric.md).
 
